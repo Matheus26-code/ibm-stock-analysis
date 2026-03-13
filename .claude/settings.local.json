@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m pytest test_main.py -v)",
+      "Bash(python test_main.py -v)",
+      "Bash(zip -r ../CaseTecnico.zip main.py test_main.py index.html retorno_acumulado.json volatilidade.json README.md assets/dashboard.png)"
+    ]
+  }
+}

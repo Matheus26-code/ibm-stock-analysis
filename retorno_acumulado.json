@@ -1,0 +1,398 @@
+[
+  {
+    "date": "2025-10-20",
+    "retorno_acumulado": 0.008426
+  },
+  {
+    "date": "2025-10-21",
+    "retorno_acumulado": 0.002785
+  },
+  {
+    "date": "2025-10-22",
+    "retorno_acumulado": 0.022143
+  },
+  {
+    "date": "2025-10-23",
+    "retorno_acumulado": 0.013413
+  },
+  {
+    "date": "2025-10-24",
+    "retorno_acumulado": 0.09222
+  },
+  {
+    "date": "2025-10-27",
+    "retorno_acumulado": 0.110531
+  },
+  {
+    "date": "2025-10-28",
+    "retorno_acumulado": 0.108871
+  },
+  {
+    "date": "2025-10-29",
+    "retorno_acumulado": 0.094922
+  },
+  {
+    "date": "2025-10-30",
+    "retorno_acumulado": 0.100924
+  },
+  {
+    "date": "2025-10-31",
+    "retorno_acumulado": 0.092377
+  },
+  {
+    "date": "2025-11-03",
+    "retorno_acumulado": 0.083659
+  },
+  {
+    "date": "2025-11-04",
+    "retorno_acumulado": 0.070927
+  },
+  {
+    "date": "2025-11-05",
+    "retorno_acumulado": 0.090604
+  },
+  {
+    "date": "2025-11-06",
+    "retorno_acumulado": 0.109022
+  },
+  {
+    "date": "2025-11-07",
+    "retorno_acumulado": 0.089689
+  },
+  {
+    "date": "2025-11-10",
+    "retorno_acumulado": 0.098665
+  },
+  {
+    "date": "2025-11-11",
+    "retorno_acumulado": 0.113513
+  },
+  {
+    "date": "2025-11-12",
+    "retorno_acumulado": 0.117529
+  },
+  {
+    "date": "2025-11-13",
+    "retorno_acumulado": 0.0854
+  },
+  {
+    "date": "2025-11-14",
+    "retorno_acumulado": 0.088123
+  },
+  {
+    "date": "2025-11-17",
+    "retorno_acumulado": 0.060252
+  },
+  {
+    "date": "2025-11-18",
+    "retorno_acumulado": 0.035956
+  },
+  {
+    "date": "2025-11-19",
+    "retorno_acumulado": 0.031058
+  },
+  {
+    "date": "2025-11-20",
+    "retorno_acumulado": 0.037539
+  },
+  {
+    "date": "2025-11-21",
+    "retorno_acumulado": 0.061782
+  },
+  {
+    "date": "2025-11-24",
+    "retorno_acumulado": 0.08424
+  },
+  {
+    "date": "2025-11-25",
+    "retorno_acumulado": 0.085424
+  },
+  {
+    "date": "2025-11-26",
+    "retorno_acumulado": 0.081253
+  },
+  {
+    "date": "2025-11-28",
+    "retorno_acumulado": 0.098963
+  },
+  {
+    "date": "2025-12-01",
+    "retorno_acumulado": 0.089533
+  },
+  {
+    "date": "2025-12-02",
+    "retorno_acumulado": 0.076807
+  },
+  {
+    "date": "2025-12-03",
+    "retorno_acumulado": 0.07959
+  },
+  {
+    "date": "2025-12-04",
+    "retorno_acumulado": 0.097335
+  },
+  {
+    "date": "2025-12-05",
+    "retorno_acumulado": 0.097173
+  },
+  {
+    "date": "2025-12-08",
+    "retorno_acumulado": 0.1012
+  },
+  {
+    "date": "2025-12-09",
+    "retorno_acumulado": 0.105405
+  },
+  {
+    "date": "2025-12-10",
+    "retorno_acumulado": 0.112458
+  },
+  {
+    "date": "2025-12-11",
+    "retorno_acumulado": 0.106285
+  },
+  {
+    "date": "2025-12-12",
+    "retorno_acumulado": 0.101458
+  },
+  {
+    "date": "2025-12-15",
+    "retorno_acumulado": 0.099583
+  },
+  {
+    "date": "2025-12-16",
+    "retorno_acumulado": 0.081829
+  },
+  {
+    "date": "2025-12-17",
+    "retorno_acumulado": 0.08229
+  },
+  {
+    "date": "2025-12-18",
+    "retorno_acumulado": 0.072828
+  },
+  {
+    "date": "2025-12-19",
+    "retorno_acumulado": 0.074592
+  },
+  {
+    "date": "2025-12-22",
+    "retorno_acumulado": 0.080606
+  },
+  {
+    "date": "2025-12-23",
+    "retorno_acumulado": 0.083876
+  },
+  {
+    "date": "2025-12-24",
+    "retorno_acumulado": 0.086443
+  },
+  {
+    "date": "2025-12-26",
+    "retorno_acumulado": 0.088184
+  },
+  {
+    "date": "2025-12-29",
+    "retorno_acumulado": 0.090314
+  },
+  {
+    "date": "2025-12-30",
+    "retorno_acumulado": 0.078245
+  },
+  {
+    "date": "2025-12-31",
+    "retorno_acumulado": 0.05891
+  },
+  {
+    "date": "2026-01-02",
+    "retorno_acumulado": 0.04301
+  },
+  {
+    "date": "2026-01-05",
+    "retorno_acumulado": 0.054914
+  },
+  {
+    "date": "2026-01-06",
+    "retorno_acumulado": 0.08034
+  },
+  {
+    "date": "2026-01-07",
+    "retorno_acumulado": 0.061363
+  },
+  {
+    "date": "2026-01-08",
+    "retorno_acumulado": 0.081549
+  },
+  {
+    "date": "2026-01-09",
+    "retorno_acumulado": 0.086505
+  },
+  {
+    "date": "2026-01-12",
+    "retorno_acumulado": 0.11267
+  },
+  {
+    "date": "2026-01-13",
+    "retorno_acumulado": 0.083776
+  },
+  {
+    "date": "2026-01-14",
+    "retorno_acumulado": 0.103139
+  },
+  {
+    "date": "2026-01-15",
+    "retorno_acumulado": 0.067285
+  },
+  {
+    "date": "2026-01-16",
+    "retorno_acumulado": 0.093195
+  },
+  {
+    "date": "2026-01-20",
+    "retorno_acumulado": 0.046347
+  },
+  {
+    "date": "2026-01-21",
+    "retorno_acumulado": 0.067593
+  },
+  {
+    "date": "2026-01-22",
+    "retorno_acumulado": 0.057947
+  },
+  {
+    "date": "2026-01-23",
+    "retorno_acumulado": 0.05038
+  },
+  {
+    "date": "2026-01-26",
+    "retorno_acumulado": 0.063682
+  },
+  {
+    "date": "2026-01-27",
+    "retorno_acumulado": 0.055346
+  },
+  {
+    "date": "2026-01-28",
+    "retorno_acumulado": 0.056367
+  },
+  {
+    "date": "2026-01-29",
+    "retorno_acumulado": 0.107632
+  },
+  {
+    "date": "2026-01-30",
+    "retorno_acumulado": 0.099418
+  },
+  {
+    "date": "2026-02-02",
+    "retorno_acumulado": 0.1256
+  },
+  {
+    "date": "2026-02-03",
+    "retorno_acumulado": 0.060719
+  },
+  {
+    "date": "2026-02-04",
+    "retorno_acumulado": 0.042847
+  },
+  {
+    "date": "2026-02-05",
+    "retorno_acumulado": 0.045753
+  },
+  {
+    "date": "2026-02-06",
+    "retorno_acumulado": 0.076937
+  },
+  {
+    "date": "2026-02-09",
+    "retorno_acumulado": 0.068273
+  },
+  {
+    "date": "2026-02-10",
+    "retorno_acumulado": 0.052818
+  },
+  {
+    "date": "2026-02-11",
+    "retorno_acumulado": -0.012133
+  },
+  {
+    "date": "2026-02-12",
+    "retorno_acumulado": -0.060848
+  },
+  {
+    "date": "2026-02-13",
+    "retorno_acumulado": -0.049828
+  },
+  {
+    "date": "2026-02-17",
+    "retorno_acumulado": -0.06534
+  },
+  {
+    "date": "2026-02-18",
+    "retorno_acumulado": -0.055739
+  },
+  {
+    "date": "2026-02-19",
+    "retorno_acumulado": -0.073033
+  },
+  {
+    "date": "2026-02-20",
+    "retorno_acumulado": -0.069599
+  },
+  {
+    "date": "2026-02-23",
+    "retorno_acumulado": -0.201073
+  },
+  {
+    "date": "2026-02-24",
+    "retorno_acumulado": -0.174344
+  },
+  {
+    "date": "2026-02-25",
+    "retorno_acumulado": -0.138499
+  },
+  {
+    "date": "2026-02-26",
+    "retorno_acumulado": -0.119681
+  },
+  {
+    "date": "2026-02-27",
+    "retorno_acumulado": -0.127119
+  },
+  {
+    "date": "2026-03-02",
+    "retorno_acumulado": -0.130616
+  },
+  {
+    "date": "2026-03-03",
+    "retorno_acumulado": -0.105926
+  },
+  {
+    "date": "2026-03-04",
+    "retorno_acumulado": -0.086438
+  },
+  {
+    "date": "2026-03-05",
+    "retorno_acumulado": -0.060484
+  },
+  {
+    "date": "2026-03-06",
+    "retorno_acumulado": -0.051519
+  },
+  {
+    "date": "2026-03-09",
+    "retorno_acumulado": -0.072844
+  },
+  {
+    "date": "2026-03-10",
+    "retorno_acumulado": -0.0852
+  },
+  {
+    "date": "2026-03-11",
+    "retorno_acumulado": -0.090515
+  },
+  {
+    "date": "2026-03-12",
+    "retorno_acumulado": -0.095297
+  }
+]
